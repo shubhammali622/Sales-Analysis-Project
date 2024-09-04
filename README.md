@@ -22,6 +22,7 @@ To prepare the data for analysis, several preprocessing steps were performed:
 - Extracting Additional Features: Columns like Month, City, and Sales (calculated by multiplying Quantity Ordered by Price Each) were created to facilitate the analysis.
 
 Analysis:
+
 The analysis focused on answering several key questions:
 
 - What was the best month for sales?
