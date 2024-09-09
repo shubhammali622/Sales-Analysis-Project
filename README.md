@@ -1,10 +1,10 @@
 # Sales-Analysis-Project
 
-Project Overview:
+## Project Overview
 
 This project aims to analyze sales data from multiple CSV files to uncover trends and insights. By aggregating data from various months, we can identify patterns in sales, understand customer behavior, and provide actionable recommendations to improve business performance.
 
-Data Collection:
+## Data Collection
 
 The sales data is stored in multiple CSV files, each representing sales for a different month. These files were combined into a single DataFrame for comprehensive analysis.
 
@@ -12,7 +12,7 @@ The sales data is stored in multiple CSV files, each representing sales for a di
 - Files: Multiple CSV files corresponding to different months.
 - Data Format: Each file contains columns such as Order ID, Product, Quantity Ordered, Price Each, Order Date, Purchase Address, etc.
 
-Data Cleaning:
+## Data Cleaning
 
 To prepare the data for analysis, several preprocessing steps were performed:
 
@@ -21,7 +21,7 @@ To prepare the data for analysis, several preprocessing steps were performed:
 - Handling Duplicates: Duplicated rows were identified and removed.
 - Extracting Additional Features: Columns like Month, City, and Sales (calculated by multiplying Quantity Ordered by Price Each) were created to facilitate the analysis.
 
-Analysis:
+## Analysis
 
 The analysis focused on answering several key questions:
 
